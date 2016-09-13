@@ -1,4 +1,4 @@
-# Dadageek-On-Jupiter
+# Dadageek-Ganz-o
 "Relaxation" device example for Dadageek </br>
 
 Here's a device I put together as an example for my classes at Dadageek. </br>
