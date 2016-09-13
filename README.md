@@ -2,7 +2,7 @@
 "Relaxation" device example for Dadageek </br>
 
 Here's a device I put together as an example for my classes at Dadageek. </br>
-It's kind of a relaxation device that slowly changes color while lightning flashes and static swells. </br>
+It's kind of a relaxation device that slowly changes color while lightning flashes and static swells. The rate is changed when it's touched.</br>
 
 This was a quick project to show what can be done with just a few components and some code.</br>
 More info on the class here. </br>
